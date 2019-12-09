@@ -10,3 +10,4 @@
 ### [筹办 CockroachDB meetup](./cockroach-meetup/README.md)
 
 * 筹办 CockroachDB 社区杭州首次 Meet Up
+* 由百度赞助，并已邀请到百度智能云、阿里云、新东方北京等公司的架构师
