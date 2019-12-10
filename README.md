@@ -23,7 +23,7 @@
 * 2019年7月，Rokid，西溪壹号22幢
 * [PPT]()
 
-### [javascript in iot](./shadownode-eshine-2019-12/README.md)
+### [Javascript In IoT](./shadownode-eshine-2019-12/README.md)
 
 * 社区体系
 * iot 相关概念
