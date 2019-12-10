@@ -2,7 +2,7 @@
 
 > 杭州
 
-![](./playbill2.png)
+![](./playbill for community.jpeg)
 
 ### 邀请到嘉宾
 
