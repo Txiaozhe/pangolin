@@ -12,7 +12,7 @@
 
 * 筹办 CockroachDB 社区杭州首次 Meet Up
 * 由百度赞助，并已邀请到百度智能云、阿里云、新东方北京等公司的架构师
-* [海报](./cockroachdb-meetup/playbill for community.jpeg)
+* [海报](./cockroachdb-meetup/playbill-for-community.jpeg)
 
 ### [数字货币](./blockchain-rokid-2019-07/README.md)
 
@@ -26,4 +26,5 @@
 * v8/libuv/node.js 体系
 * JerryScript/libtuv/iotjs 体系
 * ShadowNode
-* 2019年12月13日，壹向，壹向大楼10楼会议室
+* 社区和商业化
+* 2019年12月13日，壹向，壹向大楼10楼莫里斯会议室
