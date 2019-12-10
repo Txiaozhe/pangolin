@@ -8,7 +8,7 @@
 * 基于 Kubernetes 部署 CockroachDB
 * 2018年7月7日（周六），深圳，百度智能云主办
 * [海报](./cockroachdb-shenzhen-2018-07/playbill.jpeg)
-* [PPT](./cockroachdb-shenzhen-2018-07/notePPT.pptx)
+* [PPT](./cockroachdb-shenzhen-2018-07/notePPT.pdf)
 * [讲稿](./cockroachdb-shenzhen-2018-07/note.md)
 
 ### [筹办 CockroachDB meetup](./cockroachdb-meetup/README.md)
