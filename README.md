@@ -32,5 +32,5 @@
 * ShadowNode
 * 社区和商业化
 * 2019年12月13日，壹向，壹向大楼10楼莫里斯会议室
-* [PPT](./shadownode-eshine-2019-12/JavaScript-in-IoT.pptx)
+* [PPT](./shadownode-eshine-2019-12/JavaScript-in-IoT.pdf)
 * [讲稿](./shadownode-eshine-2019-12/draft.md)
