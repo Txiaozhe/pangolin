@@ -35,3 +35,4 @@
 * 2019年12月13日，壹向，壹向大楼10楼莫里斯会议室
 * [PPT](./shadownode-eshine-2019-12/JavaScript-in-IoT.pdf)
 * [讲稿](https://txiaozhe.github.io/2019/12/13/javascript-in-iot/)
+* [文档](https://txiaozhe.github.io/2019/11/18/learning-jerryscript-design/)
