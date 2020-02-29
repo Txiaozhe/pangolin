@@ -22,7 +22,7 @@
 
 * 分享区块链概念、应用及数字货币相关
 * 2019年7月，Rokid，西溪壹号22幢
-* [PPT]()
+* [PPT](./blockchain-rokid-2019-07/数字货币.pdf)
 
 ### [Javascript In IoT](./shadownode-eshine-2019-12/README.md)
 
